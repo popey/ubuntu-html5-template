@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Application Name
+Comment=Short description of application
+Exec=webapp-container $@ www/index.html
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=./icon.png

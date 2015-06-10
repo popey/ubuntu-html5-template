@@ -1,0 +1,14 @@
+{
+    "description":  "Application description",
+    "framework":    "ubuntu-sdk-14.10-html",
+    "hooks": {
+        "appname": {
+            "apparmor": "app.json",
+            "desktop":  "app.desktop"
+        }
+    },
+    "maintainer":   "Joe Bloggs <joe@example.com>",
+    "name":         "appname.yourname",
+    "title":        "App Name",
+    "version":      "0.1"
+}
