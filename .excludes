@@ -1,0 +1,7 @@
+Makefile
+*.tmp
+.bzr
+.git
+po
+*.user
+
