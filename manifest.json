@@ -1,6 +1,6 @@
 {
     "description":  "Application description",
-    "framework":    "ubuntu-sdk-14.10-html",
+    "framework":    "ubuntu-sdk-15.04-html",
     "hooks": {
         "appname": {
             "apparmor": "app.json",
