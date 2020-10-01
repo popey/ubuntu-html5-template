@@ -6,7 +6,9 @@ Modify the app.desktop, and manifest.json to set your app name, version, etc.
 
 Options for building:
 
-- Open "app.ubuntuhtmlproject" using the Ubuntu SDK or
+- Open "app.ubuntuhtmlproject" using the Ubuntu SDK 
+   
+                      OR
 
 - Build on the command line with "click build ."
 
